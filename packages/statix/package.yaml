@@ -10,7 +10,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:cargo/statix@0.5.8?features=json?repository_url=https://github.com/oppiliappan/statix
+  id: pkg:cargo/statix@v0.5.8?repository_url=https://github.com/oppiliappan/statix&features=json
 
 bin:
   statix: cargo:statix
